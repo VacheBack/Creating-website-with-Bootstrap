@@ -30,6 +30,7 @@ To get a local copy up and running, follow these simple steps.
    git clone https://github.com/yourusername/tindog.git
 
 2. **Navigate to the project directory**:
+    ```bash
     cd tindog
 
 3. **Open the index.html file**:

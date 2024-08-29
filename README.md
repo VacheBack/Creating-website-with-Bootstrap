@@ -18,7 +18,6 @@ TinDog is a playful and innovative web application that brings dog lovers togeth
 - **HTML5**: For creating the structure of the web pages.
 - **CSS3**: For styling the website.
 - **Bootstrap**: Utilized Bootstrap components to create a responsive and visually appealing design.
-- **Python**: For adding interactivity and handling the swipe functionality.
 
 ## Getting Started
 
